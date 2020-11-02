@@ -1,0 +1,9 @@
+#Ingridients 
+1.flour
+1.egg
+1.tomatoes
+1.garlic
+1.butter
+1.salt
+1.pepper
+1.water
